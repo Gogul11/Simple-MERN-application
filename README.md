@@ -10,6 +10,12 @@ and it also *adds* the data to the server.
   - These links are handled by "react-router-dom". The react-router-dom is used to maintain the web page as SPA.
   
   - Axios is used for handling responses from the backend server.
+
+       1. **App.jsx** is the main file that serves as the default homepage.
+   
+       2. **data.jsx** file is used to view the databases.
+   
+       3. **add.jsx** file is a form used to send data to backend.
   
 
 ## **BACKEND :**
@@ -22,4 +28,11 @@ and it also *adds* the data to the server.
   
   - The database model contains two fields namely 'name' and 'email'
 
-Here, I used Mongodb atlas for managing data.
+          
+      1. **server.js** is the main file where requests are handled.
+      
+      2. **model.js** file contains the information about the database shema and model.
+      
+      3. **value.js** file contains the PORT number and connection string.
+
+Here, I used [Mongodb atlas](https://www.mongodb.com/products/platform/atlas-database) for managing data.
