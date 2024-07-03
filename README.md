@@ -1,4 +1,6 @@
-##This is an simple MERN stack application that gets the data from the backend server and displays it 
+#SIMPLE MERN APPLICATION FOR MONITERING DATABASE
+
+This is an simple MERN stack application that gets the data from the backend server and displays it 
 and it also adds the data to the server.
 
 **FRONTEND :**
