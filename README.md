@@ -1,7 +1,7 @@
-This is an simple MERN stack application that gets the data from the backend server and displays it 
+##This is an simple MERN stack application that gets the data from the backend server and displays it 
 and it also adds the data to the server.
 
-**FRONTEND : **
+**FRONTEND :**
   
   -The default "/" route displays two links that routes for viewing and adding data.
   
@@ -10,7 +10,7 @@ and it also adds the data to the server.
   -Axios is used for handling responses from the backend server.
   
 
-**BACKEND : **
+**BACKEND :**
 
   -The default route is "/" and the response is a simple message
   
